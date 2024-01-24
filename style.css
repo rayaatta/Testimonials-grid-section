@@ -110,7 +110,7 @@ blockquote {
     color: var(--blockquote-txt-color);
 }
 .section-daniel {
-    background-image: url(images/bg-pattern-quotation.svg);
+    background-image: url(bg-pattern-quotation.svg);
     background-repeat: no-repeat;
     background-position-x: calc(100% - 2rem);
     background-color: var(--daniel-bg);
